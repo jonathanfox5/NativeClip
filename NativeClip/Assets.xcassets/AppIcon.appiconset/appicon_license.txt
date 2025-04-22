@@ -1,0 +1,11 @@
+App icon is Copyright 2025 Jonathan Fox and is covered by the same license as the rest of the codebase (AGPLv3+)
+
+App icon is based upon:
+https://creazilla.com/media/icon/3208321/clippy
+Published by:
+Creazilla
+Author: Austin Andrews
+Source: github.com/Templarian/MaterialDesign
+Icon set: material design pack
+Licence:
+Apache License 2.0. Free for editorial, educational, commercial, and/or personal projects. Attribution is required in case of redistribution. More info.
