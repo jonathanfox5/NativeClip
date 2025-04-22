@@ -12,3 +12,15 @@ Useful for displaying and interacting with subtitles using the automatic copy-to
 2. Resize to your liking (note that the height of the TextField will adapt to match the contents of the clipboard)
 3. Any new text data on the clipboard will be automatically displayed
 4. Manipulate the text as desired.
+
+## Installation
+
+Since the app isn't signed by Apple, it will automatically be blocked from running. You will therefore need to give it explicit permission.
+
+1. Download the latest `NativeClip.app.zip` from the [releases page](https://github.com/jonathanfox5/NativeClip/releases)
+2. Double click on it to extract it.
+3. Drag `NativeClip.app` into your Applications folder.
+4. Run the following command `xattr -d com.apple.quarantine /Applications/NativeClip.app`
+5. Launch the app normally.
+
+Alternatively, the full source code is available in this repository should you wish to build it yourself in Xcode.
