@@ -4,7 +4,7 @@
 
 A simple app that monitors the macOS clipboard for text data and displays it in a TextField. This allows the text to be manipulated in ways that only native mac apps can e.g. three finger tap to look up dictionary, right click to translate, etc.
 
-Useful for displaying and interacting with subtitles using the automatic copy-to-clipboard mechanism in [mpvacious](https://github.com/Ajatt-Tools/mpvacious).
+Useful for, for example, displaying and interacting with subtitles using the automatic copy-to-clipboard mechanism in [mpvacious](https://github.com/Ajatt-Tools/mpvacious).
 
 ## Usage
 
