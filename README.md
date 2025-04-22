@@ -20,7 +20,7 @@ Since the app isn't signed by Apple, it will automatically be blocked from runni
 1. Download the latest `NativeClip.app.zip` from the [releases page](https://github.com/jonathanfox5/NativeClip/releases)
 2. Double click on it to extract it.
 3. Drag `NativeClip.app` into your Applications folder.
-4. Run the following command `xattr -d com.apple.quarantine /Applications/NativeClip.app`
+4. Open Terminal (this application is built into macOS). Paste in the following command `xattr -d com.apple.quarantine /Applications/NativeClip.app` and press enter.
 5. Launch the app normally.
 
 Alternatively, the full source code is available in this repository should you wish to build it yourself in Xcode.
